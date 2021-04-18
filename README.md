@@ -1,1 +1,3 @@
-# kos-inka
+# kos-
+
+java -jar myFileName.jar
